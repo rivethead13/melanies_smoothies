@@ -1,5 +1,5 @@
 #requirements.txt
 snowflake-snowpark-python
-streamlit as st
+streamlit
 requests
-pandas as pd
+pandas
